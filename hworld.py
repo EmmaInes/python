@@ -3,8 +3,6 @@ matplotlib.use('TkAgg')  # Use TkAgg backend for macOS
 import matplotlib.pyplot as plt
 import numpy as np
 
-print("Hello, World!")
-
 # Basic matplotlib examples
 print("\nCreating some basic plots...")
 
